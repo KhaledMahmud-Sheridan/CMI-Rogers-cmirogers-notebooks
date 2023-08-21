@@ -9,7 +9,6 @@ This repository houses a series of Jupyter notebooks specifically tailored for E
 - [Notebook Descriptions](#notebook-descriptions)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -23,9 +22,9 @@ The data used in these notebooks can be downloaded [as a zip file here](https://
 
 Here's a quick overview of the notebooks available in this repository:
 
-- **GoogleMaps**: This folder contains notebooks to explore the Google Maps Routes API and determine other relevant Maps APIs that could be used to append information that may provide useful for analysis later (e.g. Maps Elevation API).
+- **GoogleMaps**: This folder contains notebooks to explore the Google Maps Routes API and determine other relevant Maps APIs that could be used to append information that may be useful for analysis later (e.g. Maps Elevation API).
 
-- **IEEE-BEV**: These notebooks were used to explore the parameters provided by [Steinstraeter (University of Munich)](https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles). Their open dataset consists of data derived from with a real battery-powered electric vehicle, as well as data generated from a verified model of the same electric vehicle.
+- **IEEE-BEV**: These notebooks were used to explore the parameters provided by [Steinstraeter (University of Munich)](https://ieee-dataport.org/open-access/battery-and-heating-data-real-driving-cycles). Their open dataset consists of data derived from a real battery-powered electric vehicle, as well as data generated from a verified model of the same electric vehicle.
 
 - **IVY**: This notebook was used to explore OBD parameters that have been collected by Blackberry for their IVY project, which could provide insights into the battery parameters we could use to monitor for the purposes of our own project.
 
