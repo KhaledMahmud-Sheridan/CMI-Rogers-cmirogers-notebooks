@@ -1,5 +1,5 @@
 # CMI-Rogers Notebooks Repository
-Welcome to the Jupyter Notebooks Repository! This repository contains a collection of Jupyter notebooks that cover various topics, ranging from data analysis to interactive visualizations.
+This repository houses a series of Jupyter notebooks specifically tailored for Exploratory Data Analysis (EDA) and pre-processing tasks. These notebooks are designed to assist in the exploration and preparation of training data for a machine learning model, which is intended for the condition monitoring of battery-powered electric vehicles.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -9,7 +9,7 @@ Welcome to the Jupyter Notebooks Repository! This repository contains a collecti
 - [Contact](#contact)
 
 ## Introduction
-Jupyter notebooks are a powerful tool for creating and sharing documents that contain live code, equations, visualizations, and narrative text. This repository aims to provide a curated set of Jupyter notebooks that demonstrate different concepts, techniques, and applications in a variety of fields.
+The main focus of this repository is to provide comprehensive EDA and pre-processing scripts that enable a deep understanding of the data collected from battery-powered electric vehicles. The notebooks cover a range of techniques to uncover patterns, anomalies, and trends within the data. This initial exploration is crucial for preparing the data that will subsequently be used to train a machine learning model.
 
 ## Notebook Descriptions
 Here's a quick overview of the notebooks available in this repository:
