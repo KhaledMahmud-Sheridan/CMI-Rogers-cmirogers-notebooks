@@ -279,9 +279,10 @@ $RECYCLE.BIN/
 
 # End of https://www.toptal.com/developers/gitignore/api/jupyternotebooks,visualstudiocode,python,windows,macos,linux
 
+bfg*.jar
 config.py
 .env
 HERE Routing API/
 Simscape/Simscape-ComboSmoothed
-VED/VED-dynamic.ipynb
 Simscape/draft_Simscape_BEV_model.ipynb
+VED/VED-dynamic.ipynb
