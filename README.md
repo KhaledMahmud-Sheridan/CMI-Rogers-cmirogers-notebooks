@@ -3,6 +3,7 @@ This repository houses a series of Jupyter notebooks specifically tailored for E
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Data](#data)
 - [Notebook Descriptions](#notebook-descriptions)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
@@ -10,6 +11,9 @@ This repository houses a series of Jupyter notebooks specifically tailored for E
 
 ## Introduction
 The main focus of this repository is to provide comprehensive EDA and pre-processing scripts that enable a deep understanding of the data collected from battery-powered electric vehicles. The notebooks cover a range of techniques to uncover patterns, anomalies, and trends within the data. This initial exploration is crucial for preparing the data that will subsequently be used to train a machine learning model.
+
+### Data
+The data used in these notebooks can be downloaded [as a zip file here](https://sheridanc.sharepoint.com/:u:/r/sites/CMI-Rogers-Rogers-CMI-IE/Shared%20Documents/Rogers-CMI-IE/Documents-Presentations/JerikkaS/Source/Notebooks/data.zip?csf=1&web=1&e=qgNeiE).
 
 ## Notebook Descriptions
 Here's a quick overview of the notebooks available in this repository:
