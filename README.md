@@ -1,5 +1,5 @@
 # CMI-Rogers Notebooks Repository
-Welcome to the Jupyter Notebooks Repository! This repository contains a collection of Jupyter notebooks that cover various topics, ranging from data analysis and machine learning to interactive visualizations and educational tutorials.
+Welcome to the Jupyter Notebooks Repository! This repository contains a collection of Jupyter notebooks that cover various topics, ranging from data analysis to interactive visualizations.
 
 ## Table of Contents
 - [Introduction](#introduction)
@@ -31,10 +31,13 @@ To get started with these Jupyter notebooks, follow these steps:
 - Unzip the **data** folder so that it is in the project root directory
 - Create an `.env` file in your project root directory with the following info:
     ```python
+    # Google Maps Routes API
     GOOGLE_MAPS_KEY = ""
+    # HERE API
     HERE_API_KEY = ""
-    OPENCHG_KEY = ""
+    # Geoapify API
     GEOAPIFY_KEY = ""
+    
     ROOT_FOLDER = ""
     ```
     - Enter the required information as strings
